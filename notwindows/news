@@ -1,6 +1,27 @@
-Version: 11.0
+Latest:
+Update 11.2
+Added:
+- No more ugly windowsXP scrollbars
+- Search menu works
+- Edge works
+- Unblocked games work
+- Login system uses new users.json method
+- New pre-load page where you click to login
+- Almost all icons removed from desktop besides credits
+- Start menu works - log out, sleep, or shut down
+- Added around 30 new games (yes i added Blocky Parkour 3d)
+- Better file explorer padding
 
-Updates:
+Coming soon:
+- Newgrim support for adding games to "Personal" folder
+- Newgrim preview support for your storage of games
+- start menu content
+- more apps
+
+
+-- OLDER UPDATES BELOW
+
+11.0 Updates (NOT LATEST)
 - New Windows 11 UI (themes > disable ui to disable)
 - NewGrim platform for adding games
 - New logos & assets
